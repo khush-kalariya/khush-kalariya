@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khush-kalariya&show_icons=true&locale=en&layout=compact" alt="khush-kalariya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khush-kalariya&show_icons=true&locale=en" alt="khush-kalariya" /></p>
+
+<img src="./snake.svg" alt="Snake Animation"> </img>
