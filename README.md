@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
-- 🤝 I’m looking for help with **ReactJS and NextJS**
+- 🤝 I’m looking for help with **NextJS**
 
-- 💬 Ask me about **ReactJS, GSAP, Tailwind**
+- 💬 Ask me about **ReactJS, Javascript, Tailwind, Bootstrap, Css, Html**
 
 - 📫 How to reach me **khushpatel9532@gmail.com**
 
